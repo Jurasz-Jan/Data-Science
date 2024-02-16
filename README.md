@@ -1,9 +1,9 @@
-# Data-Science
+# Data-Science-UJ
 Programs from Data Science course taught by Przemysław Witaszczyk @ Jagiellonian University.
 Work done in collaboration with Dawid Pałka.
 
 
-Datasets
+## Datasets
 
 [Wave Energy Converters](https://archive.ics.uci.edu/dataset/494/wave+energy+converters)
 
